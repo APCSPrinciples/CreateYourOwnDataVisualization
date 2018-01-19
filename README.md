@@ -6,10 +6,11 @@ Suggested steps to complete this assignment
 1. First you need some data. You can use the data set provided or find or create your own. You can collaborate with a partner. You can both work on the same visualization, or you can share a data set and each create a differnet visualization.
 
 2. Once you've collected data, you can start coding. Some ideas for visualizations include:
-   - Chainging opacity so frequently occuring values are brighter 
-   - Chainging size so frequently occuring values are larger
+   - Changing opacity so frequently occuring values are brighter 
+   - Changing size so frequently occuring values are larger
    - Creating a bar graph
    - Creating a color grid
+   - Create your own visualization
 
 Samples of Student Work
 -----------------------
