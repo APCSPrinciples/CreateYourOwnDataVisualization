@@ -1,5 +1,5 @@
 # Getting Started With Data Visualizations
-In this assignment you will create a picture that will help in understanding a list of data.
+In this assignment you will create a picture that will help in understanding a list of data. (More details to come)
 
 Suggested steps to complete this assignment
 -------------------------------------------
