@@ -3,7 +3,7 @@ In this assignment you will create a picture that will help in understanding a l
 
 Suggested steps to complete this assignment
 -------------------------------------------
-1. First you need some data You can use the data set provided or find or create your own. You can collaborate with a partner. You both can work on the same visualization, or you can share a data set and each create a differnet visualization.
+1. First you need some data. You can use the data set provided or find or create your own. You can collaborate with a partner. You both can work on the same visualization, or you can share a data set and each create a differnet visualization.
 
 2. Once you've collected data, you can start coding. Some ideas for visualizations include:
    - Chainging opacity so frequently occuring values are brighter 
