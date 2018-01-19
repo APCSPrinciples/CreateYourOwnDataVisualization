@@ -11,4 +11,8 @@ Suggested steps to complete this assignment
    - Creating a bar graph
    - Creating a color grid
 
+Samples of Student Work
+-----------------------
+None yet!
+
 *This assignment is based on Jer Thorp's [Getting Started with Processing and Data Visualizations](http://blog.blprnt.com/blog/blprnt/your-random-numbers-getting-started-with-processing-and-data-visualization)*
