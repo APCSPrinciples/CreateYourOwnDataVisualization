@@ -12,6 +12,7 @@ Suggested steps to complete this assignment
    - Changing size so frequently occuring values are larger
    - Creating a bar graph
    - Creating a color grid
+   - Using a [Chernoff face](https://en.wikipedia.org/wiki/Chernoff_face)
    - Create your own visualization, your visualization doesn't have to look like any other. Have fun and be creative.
 
 Samples of Student Work
