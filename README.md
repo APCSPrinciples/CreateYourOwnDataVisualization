@@ -1,5 +1,5 @@
 # Getting Started With Data Visualizations
-In this assignment you will create a picture that will help in understanding a list of data.  
+In this assignment you will create a picture that will help in understanding a list of data. You may find slides 144 - 171 of the PythonProcessing.pptx PowerPoint slides helpful in this assignment.
 
 Suggested steps to complete this assignment
 -------------------------------------------
@@ -13,7 +13,8 @@ Suggested steps to complete this assignment
    - Creating a bar graph
    - Creating a color grid
    - Using a [Chernoff face](https://en.wikipedia.org/wiki/Chernoff_face)
-   - Create your own visualization, your visualization doesn't have to look like any other. Have fun and be creative.
+   - Visit the [Data Visualisation Catalogue](https://datavizcatalogue.com/) for examples of other types of visualizations
+   - Create your own visualization, your visualization doesn't have to look like any other. Have fun and be creative!
 
 Samples of Student Work
 -----------------------
