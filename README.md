@@ -13,7 +13,7 @@ Suggested steps to complete this assignment
    - Creating a bar graph
    - Creating a color grid
    - Using a [Chernoff face](https://en.wikipedia.org/wiki/Chernoff_face)
-   - Visit the [Data Visualisation Catalogue](https://datavizcatalogue.com/) for examples of other types of visualizations
+   - Visiting the [Data Visualisation Catalogue](https://datavizcatalogue.com/) for examples of other types of visualizations
    - Create your own visualization, your visualization doesn't have to look like any other. Have fun and be creative!
 
 Samples of Student Work
