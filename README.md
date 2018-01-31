@@ -18,6 +18,7 @@ Suggested steps to complete this assignment
 
 Samples of Student Work
 -----------------------
+[Jan](JanViz.PNG)   
 [Andrew](AndrewViz.PNG)   
 [David](DavidVisual.PNG)   
 
