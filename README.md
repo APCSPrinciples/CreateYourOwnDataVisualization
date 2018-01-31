@@ -18,6 +18,7 @@ Suggested steps to complete this assignment
 
 Samples of Student Work
 -----------------------
+[Andrew](AndrewViz.PNG)   
 [David](DavidVisual.PNG)   
 
 *This assignment is based on Jer Thorp's [Getting Started with Processing and Data Visualizations](http://blog.blprnt.com/blog/blprnt/your-random-numbers-getting-started-with-processing-and-data-visualization)*
