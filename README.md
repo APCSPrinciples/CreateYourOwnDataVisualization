@@ -18,9 +18,11 @@ Suggested steps to complete this assignment
 
 Samples of Student Work
 -----------------------
+[Gordon](GordonViz.PNG)   
 [Jan](JanViz.PNG)   
 [Andrew](AndrewViz.PNG)    
 [Cameron](CameronViz.PNG)   
 [David](DavidVisual.PNG)   
+[Victor & Justin](VictorViz.PNG)   
 
 *This assignment is based on Jer Thorp's [Getting Started with Processing and Data Visualizations](http://blog.blprnt.com/blog/blprnt/your-random-numbers-getting-started-with-processing-and-data-visualization)*
