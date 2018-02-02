@@ -24,7 +24,7 @@ Samples of Student Work
 [Jan](JanViz.PNG)   
 [Andrew](AndrewViz.PNG)    
 [Maya](MayaViz.PNG)   
-[Cameron](CameronViz.PNG)   
+[Cameron](CameronViz.PNG)    
 [David](DavidVisual.PNG)   
 [Victor & Justin](VictorViz.PNG)  
 [Marc](MarcViz.PNG)   
