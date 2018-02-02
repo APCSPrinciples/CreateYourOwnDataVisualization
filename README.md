@@ -1,5 +1,5 @@
 # Getting Started With Data Visualizations
-In this assignment you will create a picture that will help in understanding a list of data. You may find slides 144 - 181 of the PythonProcessing.pptx PowerPoint slides helpful in this assignment.
+In this assignment you will create a picture that will help in understanding a list of data. You may find slides 155 - 192 of the PythonProcessing.pptx PowerPoint slides helpful in this assignment.
 
 Suggested steps to complete this assignment
 -------------------------------------------
