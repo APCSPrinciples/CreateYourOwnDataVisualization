@@ -18,6 +18,7 @@ Suggested steps to complete this assignment
 
 Samples of Student Work
 -----------------------
+[David](DavidViz.PNG)   
 [Jesus](JesusViz.PNG)   
 [Freesia](FreesiaViz.PNG)   
 [Gordon](GordonViz.PNG)   
