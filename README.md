@@ -18,6 +18,7 @@ Suggested steps to complete this assignment
 
 Samples of Student Work
 -----------------------
+[Jackson](https://trinket.io/embed/python/c040bc4561?outputOnly=true&runOption=run&start=result)      
 [David](DavidViz.PNG)   
 [Jesus](JesusViz.PNG)   
 [Freesia](FreesiaViz.PNG)   
