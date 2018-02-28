@@ -21,7 +21,7 @@ Samples of Student Work
 [Katherine](KatherineViz.PNG)   
 [Jackson](https://trinket.io/embed/python/c040bc4561?outputOnly=true&runOption=run&start=result)      
 [David](DavidViz.PNG)   
-[Jesus](JesusViz.PNG)   
+[JT](JesusViz.PNG)   
 [Freesia](FreesiaViz.PNG)   
 [Gordon](GordonViz.PNG)   
 [Jan](JanViz.PNG)   
