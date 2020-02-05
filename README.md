@@ -1,4 +1,5 @@
-# Getting Started With Data Visualizations
+Create your own Data Visualizations
+===================================
 In this assignment you will create a picture that will help in understanding a list of data. You may find slides 155 - 192 of the PythonProcessing.pptx PowerPoint slides helpful in this assignment.
 
 Suggested steps to complete this assignment
@@ -8,6 +9,7 @@ Suggested steps to complete this assignment
 1. To start, you will need some data. You can use data you find on the Internet or create your own. You should then put your data into a list.
 
 2. Once you've collected data, you can start coding. Some ideas for visualizations include:
+   - Using animation to show data changing over time (like the previous tutorial)
    - Changing opacity so frequently occuring values are brighter 
    - Changing size so frequently occuring values are larger
    - Creating a bar graph
