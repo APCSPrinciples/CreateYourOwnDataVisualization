@@ -1,6 +1,6 @@
-Create your own Data Visualizations
+Create your own Data Visualization
 ===================================
-In this assignment you will create a picture that will help in understanding a list of data. You may find slides 155 - 192 of the PythonProcessing.pptx PowerPoint slides helpful in this assignment.
+In this assignment you will create a picture that will help in understanding a list of data. 
 
 Suggested steps to complete this assignment
 -------------------------------------------
