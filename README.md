@@ -6,7 +6,7 @@ Suggested steps to complete this assignment
 -------------------------------------------
 1. For this assignment you are welcome to collaborate with a partner. You can both work on the same visualization, or you can share a data set and each create a different visualization.   
 
-1. To start, you will need some data. You can use data you find on the Internet or create your own. You should then put your data into a list.
+1. To start, you will need some data. You can use data you find on the Internet or create your own. You should then put your data into a one or more arrays.
 
 2. Once you've collected data, you can start coding. Some ideas for visualizations include:
    - Using animation to show data changing over time (like the previous tutorial)
