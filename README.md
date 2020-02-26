@@ -1,6 +1,6 @@
 Create your own Data Visualization
 ===================================
-In this assignment you will create a picture that will help in understanding a list of data. 
+In this assignment you will create a picture or animation that will help in understanding data. 
 
 Suggested steps to complete this assignment
 -------------------------------------------
